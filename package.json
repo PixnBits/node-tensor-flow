@@ -1,0 +1,24 @@
+{
+  "name": "tensor-flow",
+  "version": "0.1.0-pre",
+  "description": "Node bindings for Google's Tensor Flow project (http://www.tensorflow.org/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "machine",
+    "learning",
+    "gpu"
+  ],
+  "author": "PixnBits <i@pixnbits.org>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PixnBits/node-tensor-flow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PixnBits/node-tensor-flow/issues"
+  },
+  "homepage": "https://github.com/PixnBits/node-tensor-flow"
+}
